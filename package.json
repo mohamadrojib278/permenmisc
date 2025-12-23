@@ -14,7 +14,7 @@
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.9",
-    "axios": "^1.7.7",
+    "axios": "^1.13.2",
     "color": "^4.2.3",
     "crypto": "^1.0.1",
     "fake-useragent": "^1.0.1",
